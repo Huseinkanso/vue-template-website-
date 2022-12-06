@@ -1,0 +1,35 @@
+
+{
+    "post":[
+        {
+            "img":"https://assets.website-files.com/632622573bb4e8a1d6504d34/6327477f4d1e998c00e2ee43_jonathan-borba-vYFRW77WEqg-unsplash.jpg",
+            "par":"studio",
+            "title":"your first store with webflow",
+            "par2":"Sapiens is a Webflow Non Code Template for Creatives like you",
+            "link":""      
+        },
+        {
+            "img":"https://assets.website-files.com/632622573bb4e8a1d6504d34/6327475d8894df3609db09d1_linkedin-sales-solutions-P23-VI_mhpM-unsplash.jpg",
+            "par":"update",
+            "title":"how to create better and faster web sites",
+            "par2":"Sapiens is a Webflow Non Code Template for Creatives like you",
+            "link":""      
+        },
+        {
+            "img":"https://assets.website-files.com/632622573bb4e8a1d6504d34/63274753409aa3e8057f3de2_linkedin-sales-solutions-VtKoSy_XzNU-unsplash.jpg",
+            "par":"design",
+            "title":"learn why webflow is the future of web",
+            "par2":"Sapiens is a Webflow Non Code Template for Creatives like you",
+            "link":""      
+        },
+        {
+            "img":"https://assets.website-files.com/632622573bb4e8a1d6504d34/632746e1cd40a81e4209ceac_linkedin-sales-solutions-nISqmehpBQk-unsplash.jpg",
+            "par":"studio",
+            "title":"how to be a succesful designer using webflow",
+            "par2":"Sapiens is a Webflow Non Code Template for Creatives like you",
+            "link":""      
+        }                
+    ]
+    
+}
+

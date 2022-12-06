@@ -1,0 +1,83 @@
+$purple-dark:  #9926f0 ;
+$purple-light:  #BB6EF5 ;
+$pink:    #d122e3 ;
+
+$primary:       $purple-dark ;
+$secondary:     white;
+html{
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+p{
+    color: #52596a;
+    font-weight: bold;
+}
+a{
+    text-decoration: none!important;
+    color:black!important;
+    transition:0.5s !important;
+}
+h1,h2{
+    font-weight: bold !important;
+}
+h1{
+    
+    font-size: 60px !important;
+}
+h2{
+    font-size: 40px!important;
+    
+}
+*{
+    box-sizing: border-box;
+}
+// .loaded{
+//     margin-top:-50px;
+//     display: none;
+    
+// }
+.button-1{
+    padding: 12px 15px!important;
+    border-radius: 40px!important;
+    font-size: 18px!important;
+    text-transform: capitalize;
+    svg{
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      transition: 0.4s;
+      
+    }
+    &:hover {
+        svg{
+            margin-left: 10px;
+        }
+        
+      }
+  }
+.button-2{
+    padding: 10px 25px;
+    border-radius: 40px;
+    background: white;
+    cursor: pointer;
+    transition: 0.4s;
+    border: 1px solid $primary;
+    a{
+        color: $primary;
+        text-decoration: none;
+    }
+    &:hover{
+        background-color: $primary;
+        a{
+            color:white;
+        }
+    }
+    
+}  
+.text-transparent{
+    color:transparent;
+}
+body{
+    margin: 0;
+}
+@import '../../node_modules/bootstrap/scss/bootstrap.scss'

@@ -1,0 +1,20 @@
+@import './animation';
+@mixin borderBottom {
+    border-bottom: 1px solid #52596a;;
+}
+@mixin flexCenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@mixin animationTR {
+    transition: 0.6s;
+    animation: up-down 4s infinite;
+}
+@mixin absoluteCenter {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}

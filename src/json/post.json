@@ -1,0 +1,35 @@
+
+{
+    "post":[
+        {
+            "img":"../img/blog/post1.jpg",
+            "par":"studio",
+            "title":"your first store with webflow",
+            "par2":"Sapiens is a Webflow Non Code Template for Creatives like you",
+            "link":""      
+        },
+        {
+            "img":"../img/blog/post2.jpg",
+            "par":"update",
+            "title":"how to create better and faster web sites",
+            "par2":"Sapiens is a Webflow Non Code Template for Creatives like you",
+            "link":""      
+        },
+        {
+            "img":"../img/blog/post3.jpg",
+            "par":"design",
+            "title":"learn why webflow is the future of web",
+            "par2":"Sapiens is a Webflow Non Code Template for Creatives like you",
+            "link":""      
+        },
+        {
+            "img":"../img/blog/post4.jpg",
+            "par":"studio",
+            "title":"how to be a succesful designer using webflow",
+            "par2":"Sapiens is a Webflow Non Code Template for Creatives like you",
+            "link":""      
+        }                
+    ]
+    
+}
+
